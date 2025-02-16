@@ -1,6 +1,6 @@
 questions=[
     {
-    "ennonce":"Quel est ton rapport à la foi et à l’Empereur ?",
+    "ennonce":"Quel est ton rapport avec la foi et à l’Empereur ?",
     "black-templar":" L’Empereur est un Dieu, et je me bats en son nom sans jamais faillir.",
     "grey-wolf":"L’Empereur est notre guide, mais je me fie aussi à mon instinct et aux traditions anciennes.",
     "grey-knight":" L’Empereur est notre rempart contre le Chaos, et nous sommes ses armes les plus pures.",
